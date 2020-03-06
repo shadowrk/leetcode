@@ -4,31 +4,30 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
-import java.util.function.BiConsumer;
 
 public class CreateBinaryTree {
-    public Node create(List<Integer> preList, List<Integer> midList){
+    public TreeNode create(List<Integer> preList, List<Integer> midList){
         if(preList.isEmpty() || midList.isEmpty())
             return null;
         int value = preList.get(0);
 
-        Node root = new Node(value);
+        TreeNode root = new TreeNode(value);
         int len = midList.indexOf(value);
         root.setLeft(create(preList.subList(1, len+1), midList.subList(0, len)));
         root.setRight(create(preList.subList(len+1, preList.size()), midList.subList(len+1, midList.size())));
         return root;
     }
 
-    public void print(Node root){
+    public void print(TreeNode root){
         if(root == null){
             System.out.println("根节点为null");
             return;
         }
-        Node node = root;
-        Queue<Node> queue = new LinkedList<>();
+        TreeNode node = root;
+        Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(node);
         while (!queue.isEmpty()){
-            Node temp = queue.poll();
+            TreeNode temp = queue.poll();
             System.out.println(temp.getValue());
             if(temp.getLeft() != null){
                 queue.offer(temp.getLeft());
@@ -83,17 +82,17 @@ public class CreateBinaryTree {
 //            }
 //        };
         CreateBinaryTree demo = new CreateBinaryTree();
-        Node root = demo.create(preList, midList);
+        TreeNode root = demo.create(preList, midList);
         demo.print(root);
     }
 }
 
-class Node {
+class TreeNode {
     int value;
-    Node left;
-    Node right;
+    TreeNode left;
+    TreeNode right;
 
-    public Node(int value) {
+    public TreeNode(int value) {
         this.value = value;
     }
 
@@ -105,19 +104,19 @@ class Node {
         this.value = value;
     }
 
-    public Node getLeft() {
+    public TreeNode getLeft() {
         return left;
     }
 
-    public void setLeft(Node left) {
+    public void setLeft(TreeNode left) {
         this.left = left;
     }
 
-    public Node getRight() {
+    public TreeNode getRight() {
         return right;
     }
 
-    public void setRight(Node right) {
+    public void setRight(TreeNode right) {
         this.right = right;
     }
 }
