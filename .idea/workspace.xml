@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="" />
+    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="完成112、113题">
+      <change afterPath="$PROJECT_DIR$/src/weekly/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XF2w6r45GmxihayWbA2JM7GX1k" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
@@ -22,17 +27,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UniqueBinarySearchTrees">
+  <component name="RunManager" selected="Application.PathSumII">
     <configuration name="BinaryTreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tree.BinaryTreeLevelOrderTraversal" />
       <module name="leetcode" />
@@ -46,9 +54,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ContainerWithMostWater" />
+    <configuration name="PathSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tree.PathSumII" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PathSumII" />
         <item itemvalue="Application.UniqueBinarySearchTrees" />
         <item itemvalue="Application.BinaryTreeLevelOrderTraversal" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.ContainerWithMostWater" />
       </list>
     </recent_temporary>
   </component>
@@ -110,11 +124,60 @@
       <workItem from="1582857933506" duration="26000" />
       <workItem from="1583129609440" duration="2671000" />
       <workItem from="1583217912089" duration="7001000" />
+      <workItem from="1583227865232" duration="3325000" />
+      <workItem from="1583317017322" duration="994000" />
+      <workItem from="1583463783182" duration="8440000" />
+      <workItem from="1584538466088" duration="4134000" />
+      <workItem from="1584599899151" duration="1203000" />
+      <workItem from="1584621672973" duration="4922000" />
+      <workItem from="1584695047656" duration="1635000" />
+      <workItem from="1584848129269" duration="1411000" />
     </task>
+    <task id="LOCAL-00001" summary="完成98、103、104、105、107">
+      <created>1583483365387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583483365387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成106、108、110、111">
+      <created>1584542501311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584542501311</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成112、113题">
+      <created>1584696499854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584696499854</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成98、103、104、105、107" />
+    <MESSAGE value="完成106、108、110、111" />
+    <MESSAGE value="完成112、113题" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成112、113题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="139" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583221652355">
@@ -125,30 +188,39 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582528445707" />
+    <state x="31" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583479239450">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="31" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1583479239450" />
+    <state x="273" y="0" key="CommitChangelistDialog2" timestamp="1584696746103">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583483362411" />
+    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584696746103" />
     <state x="463" y="79" key="FileChooserDialogImpl" timestamp="1582688637665">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="79" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1582688637665" />
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1583227641867">
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1584626633542">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="294" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583227641867" />
-    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1583227641867">
+    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
+    <state width="1323" height="210" key="GridCell.Tab.0.center" timestamp="1584626633542">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="294" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583227641867" />
-    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1583227641866">
+    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
+    <state width="1323" height="210" key="GridCell.Tab.0.left" timestamp="1584626633542">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="294" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583227641866" />
-    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1583227641867">
+    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right" timestamp="1584626633542">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="294" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583227641867" />
+    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
     <state width="1323" height="287" key="GridCell.Tab.1.bottom" timestamp="1583227641860">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -173,21 +245,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="306" y="0" key="NewModule_or_Project.wizard/0.0.1366.768@0.0.1366.768" timestamp="1582688644950" />
+    <state x="176" y="25" key="SettingsEditor" timestamp="1584696726351">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="176" y="25" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584696726351" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1584696505248">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584696505248" />
     <state x="381" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583221913019">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="381" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1583221913019" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583130010383">
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584695063441">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583130010383" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584695063441" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tree/BinaryTreeLevelOrderTraversal.java</url>
-          <line>34</line>
+          <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
