@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="完成112、113题">
-      <change afterPath="$PROJECT_DIR$/src/weekly/Solution.java" afterDir="false" />
-    </list>
+    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="完成112、113题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +130,7 @@
       <workItem from="1584621672973" duration="4922000" />
       <workItem from="1584695047656" duration="1635000" />
       <workItem from="1584848129269" duration="1411000" />
+      <workItem from="1585478247198" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>
@@ -245,9 +244,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="306" y="0" key="NewModule_or_Project.wizard/0.0.1366.768@0.0.1366.768" timestamp="1582688644950" />
-    <state x="176" y="25" key="SettingsEditor" timestamp="1584696726351">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="165" y="26" key="SettingsEditor" timestamp="1585478347737">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
+    <state x="165" y="26" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585478347737" />
     <state x="176" y="25" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584696726351" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1584696505248">
       <screen x="0" y="0" width="1366" height="768" />
