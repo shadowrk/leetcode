@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="完成112、113题" />
+    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="完成112、113题">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tree/PopulatingNextRightPointersInEachNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/PopulatingNextRightPointersInEachNode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,6 +134,8 @@
       <workItem from="1584695047656" duration="1635000" />
       <workItem from="1584848129269" duration="1411000" />
       <workItem from="1585478247198" duration="117000" />
+      <workItem from="1585614709169" duration="110000" />
+      <workItem from="1585615082226" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>
@@ -196,10 +201,11 @@
     </state>
     <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583483362411" />
     <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584696746103" />
-    <state x="463" y="79" key="FileChooserDialogImpl" timestamp="1582688637665">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="298" y="82" key="FileChooserDialogImpl" timestamp="1585615415901">
+      <screen x="0" y="0" width="880" height="800" />
     </state>
     <state x="463" y="79" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1582688637665" />
+    <state x="298" y="82" key="FileChooserDialogImpl/0.0.880.800@0.0.880.800" timestamp="1585615415901" />
     <state width="1323" height="210" key="GridCell.Tab.0.bottom" timestamp="1584626633542">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -249,18 +255,31 @@
     </state>
     <state x="165" y="26" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585478347737" />
     <state x="176" y="25" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584696726351" />
+    <state x="165" y="144" width="591" height="524" key="StructurePopup" timestamp="1585615109239">
+      <screen x="0" y="0" width="880" height="800" />
+    </state>
+    <state x="165" y="144" width="591" height="524" key="StructurePopup/0.0.880.800@0.0.880.800" timestamp="1585615109239" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1584696505248">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584696505248" />
+    <state x="119" y="0" width="641" height="800" key="find.popup" timestamp="1585614762036">
+      <screen x="0" y="0" width="880" height="800" />
+    </state>
+    <state x="119" y="0" width="641" height="800" key="find.popup/0.0.880.800@0.0.880.800" timestamp="1585614762036" />
+    <state x="0" y="10" key="new project wizard" timestamp="1585615433848">
+      <screen x="0" y="0" width="880" height="800" />
+    </state>
+    <state x="0" y="10" key="new project wizard/0.0.880.800@0.0.880.800" timestamp="1585615433848" />
     <state x="381" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583221913019">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="381" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1583221913019" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584695063441">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="225" y="95" width="672" height="707" key="search.everywhere.popup" timestamp="1585615097118">
+      <screen x="0" y="0" width="880" height="800" />
     </state>
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584695063441" />
+    <state x="225" y="95" width="672" height="707" key="search.everywhere.popup/0.0.880.800@0.0.880.800" timestamp="1585615097118" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

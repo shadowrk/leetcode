@@ -43,6 +43,7 @@ public class PopulatingNextRightPointersInEachNode {
         //currentNode 用来标记当前的节点
         Node currentNode = dep.left;
         while(dep != null){
+            //temp当前节点的父节点
             Node temp = dep;
             currentNode.next = temp.right;
             currentNode = currentNode.next;
