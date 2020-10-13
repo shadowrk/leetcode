@@ -1,26 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/springseason2020/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springseason2020/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springseason2020/Problem3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springseason2020/Problem4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/springseason2020/Problem5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekly/contest185/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekly/contest185/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekly/contest185/Problem3.java" afterDir="false" />
+    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="2020.10.13">
+      <change afterPath="$PROJECT_DIR$/src/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/Backpack01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/CoinChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/CanPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/FactorialTrailingZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/IsomorphicStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/KthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/MergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/MergeTwoBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/NaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/NonDecreasingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/ReverseWordsInAStringIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/SumOfTwoIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/TrimABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easylist/ValidAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/RangeSumQueryImmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tree/RangeSumQueryMutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest183/Problem1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest186/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest186/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest186/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest186/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest187/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest187/Problem2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekly/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weekly/contest183/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekly/contest183/Problem1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTTP Request" />
         <option value="Class" />
       </list>
     </option>
@@ -28,17 +79,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1XF2w6r45GmxihayWbA2JM7GX1k" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -55,20 +109,20 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem3 (2)">
-    <configuration name="Problem2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="springseason2020.Problem2" />
+  <component name="RunManager" selected="Application.NumbersWithRepeatedDigits">
+    <configuration name="Backpack01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.Backpack01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="springseason2020.*" />
+          <option name="PATTERN" value="dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="springseason2020.Problem3" />
+    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easylist.IsomorphicStrings" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="springseason2020.*" />
+          <option name="PATTERN" value="easylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekly.contest185.Problem3" />
+    <configuration name="NumbersWithRepeatedDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.NumbersWithRepeatedDigits" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekly.contest185.*" />
+          <option name="PATTERN" value="dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="springseason2020.Problem4" />
+    <configuration name="Problem3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekly.contest187.Problem3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="springseason2020.*" />
+          <option name="PATTERN" value="weekly.contest187.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weekly.contest184.Problem4" />
+    <configuration name="ValidAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easylist.ValidAnagram" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weekly.contest184.*" />
+          <option name="PATTERN" value="easylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem3 (2)" />
-        <item itemvalue="Application.Problem4 (1)" />
-        <item itemvalue="Application.Problem3 (1)" />
-        <item itemvalue="Application.Problem2 (1)" />
-        <item itemvalue="Application.Problem4" />
+        <item itemvalue="Application.NumbersWithRepeatedDigits" />
+        <item itemvalue="Application.Backpack01" />
+        <item itemvalue="Application.Problem3" />
+        <item itemvalue="Application.ValidAnagram" />
+        <item itemvalue="Application.IsomorphicStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +227,21 @@
       <workItem from="1586833392785" duration="33000" />
       <workItem from="1587192522137" duration="9805000" />
       <workItem from="1587263261674" duration="4963000" />
+      <workItem from="1587457825767" duration="1618000" />
+      <workItem from="1587649366504" duration="117000" />
+      <workItem from="1587867788400" duration="5872000" />
+      <workItem from="1588231227457" duration="2753000" />
+      <workItem from="1588297250456" duration="6991000" />
+      <workItem from="1588383201832" duration="6989000" />
+      <workItem from="1588465884465" duration="11210000" />
+      <workItem from="1588991063142" duration="6227000" />
+      <workItem from="1589072143352" duration="6802000" />
+      <workItem from="1589420390469" duration="95000" />
+      <workItem from="1590279318928" duration="8951000" />
+      <workItem from="1595918919208" duration="1168000" />
+      <workItem from="1602577606846" duration="336000" />
+      <workItem from="1602577978787" duration="66000" />
+      <workItem from="1602578077111" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>
@@ -216,11 +285,18 @@
       <option name="project" value="LOCAL" />
       <updated>1586675252514</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="周赛185和个人赛">
+      <created>1587457876373</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587457876373</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -252,156 +328,38 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="完成98、103、104、105、107" />
     <MESSAGE value="完成106、108、110、111" />
     <MESSAGE value="完成112、113题" />
     <MESSAGE value="添加183周赛1、2题" />
     <MESSAGE value="添加184周赛" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加184周赛" />
+    <MESSAGE value="周赛185和个人赛" />
+    <MESSAGE value="2020.10.13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.10.13" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="413" y="139" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583221652355">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1602578182332">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="413" y="139" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.768@0.0.1366.768" timestamp="1583221652355" />
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1582528445707">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1602578182332" />
+    <state x="142" y="25" key="SettingsEditor" timestamp="1602578271248">
+      <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582528445707" />
-    <state x="31" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583479239450">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="31" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1583479239450" />
-    <state x="256" y="0" key="CommitChangelistDialog2" timestamp="1586675357856">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="256" y="0" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1586675357856" />
-    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583483362411" />
-    <state x="273" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584696746103" />
-    <state x="433" y="82" key="FileChooserDialogImpl" timestamp="1586833412132">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="433" y="82" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1586833412132" />
-    <state x="463" y="79" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1582688637665" />
-    <state x="298" y="82" key="FileChooserDialogImpl/0.0.880.800@0.0.880.800" timestamp="1585615415901" />
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1587269402218">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587269402218" />
-    <state width="1323" height="294" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
-    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1587269402218">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1587269402218" />
-    <state width="1323" height="294" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
-    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1587269402217">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1587269402217" />
-    <state width="1323" height="294" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
-    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1587269402218">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1587269402218" />
-    <state width="1323" height="294" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="210" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1584626633542" />
-    <state width="1238" height="252" key="GridCell.Tab.1.bottom" timestamp="1587269402215">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1587269402215" />
-    <state width="1323" height="294" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="287" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583227641860" />
-    <state width="1238" height="252" key="GridCell.Tab.1.center" timestamp="1587269402215">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1587269402215" />
-    <state width="1323" height="294" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="287" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583227641859" />
-    <state width="1238" height="252" key="GridCell.Tab.1.left" timestamp="1587269402215">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1587269402215" />
-    <state width="1323" height="294" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="287" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583227641859" />
-    <state width="1238" height="252" key="GridCell.Tab.1.right" timestamp="1587269402215">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state width="1238" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1587269402215" />
-    <state width="1323" height="294" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1582554938383" />
-    <state width="1323" height="287" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583227641859" />
-    <state x="306" y="0" key="NewModule_or_Project.wizard" timestamp="1582688644950">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="306" y="0" key="NewModule_or_Project.wizard/0.0.1366.768@0.0.1366.768" timestamp="1582688644950" />
-    <state x="462" y="111" key="RollbackChangesDialog" timestamp="1586675273355">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="462" y="111" key="RollbackChangesDialog/0.0.1280.800@0.0.1280.800" timestamp="1586675273355" />
-    <state x="165" y="0" key="SettingsEditor" timestamp="1586833418942">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="165" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1586833418942" />
-    <state x="176" y="25" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584696726351" />
-    <state x="165" y="144" width="591" height="524" key="StructurePopup" timestamp="1585615109239">
-      <screen x="0" y="0" width="880" height="800" />
-    </state>
-    <state x="165" y="144" width="591" height="524" key="StructurePopup/0.0.880.800@0.0.880.800" timestamp="1585615109239" />
-    <state x="258" y="122" key="Vcs.Push.Dialog.v2" timestamp="1586675256042">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="258" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1586675256042" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584696505248" />
-    <state x="119" y="0" width="641" height="800" key="find.popup" timestamp="1585614762036">
-      <screen x="0" y="0" width="880" height="800" />
-    </state>
-    <state x="119" y="0" width="641" height="800" key="find.popup/0.0.880.800@0.0.880.800" timestamp="1585614762036" />
-    <state x="0" y="10" key="new project wizard" timestamp="1585615433848">
-      <screen x="0" y="0" width="880" height="800" />
-    </state>
-    <state x="0" y="10" key="new project wizard/0.0.880.800@0.0.880.800" timestamp="1585615433848" />
-    <state x="381" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1583221913019">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="381" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1583221913019" />
-    <state x="331" y="99" width="978" height="707" key="search.everywhere.popup" timestamp="1587264295367">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="331" y="99" width="978" height="707" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1587264295367" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1584695063441" />
-    <state x="225" y="95" width="672" height="707" key="search.everywhere.popup/0.0.880.800@0.0.880.800" timestamp="1585615097118" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tree/BinaryTreeLevelOrderTraversal.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/weekly/contest185/Problem3.java</url>
-          <line>79</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="142" y="25" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1602578271248" />
   </component>
 </project>

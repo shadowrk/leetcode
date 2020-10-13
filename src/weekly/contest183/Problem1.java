@@ -14,7 +14,7 @@ public class Problem1 {
         result.add(nums[nums.length-1]);
         for(int i=nums.length-2; i>=0; i--){
             int r = result.stream().reduce((a, b) -> a+b).get();
-            if(r > total-r) break;
+            // if(r > total-r) break;
             result.add(nums[i]);
         }
 
