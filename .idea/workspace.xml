@@ -20,51 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="2020.10.13">
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/AdjustPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/BinaryTreePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/CQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/CutTheRope.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/DoublePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/Fib.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/FrogJumping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/LinkedListReverseOrderPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/MergeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/RebuildBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/ReciprocalK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/RepeatSumInArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/ReplaceSpaceInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/RobotRangeMotion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/SearchInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/StackPushAndPop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codinginterviews/TreeChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/MergekSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/PhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/RemoveNthNodeFromEndOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/SwapNodesInPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LCOF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestTurbulentSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/OnesAndZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/ListOfDepthLCCI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tree/PrintTreeInLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codinginterviews/BSTPostOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/codinginterviews/ComplexLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ContainerWithMostWater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/MoveZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/RemoveElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SearchInsertPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/SearchInsertPosition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeSumCloest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/ThreeSumCloest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codinginterviews/CreateBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/CreateBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekly/contest183/Problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekly/contest183/weekly/contest183/Problem1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,6 +147,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.StackPushAndPop" />
@@ -265,7 +234,9 @@
       <workItem from="1611035014839" duration="12863000" />
       <workItem from="1611717615903" duration="11864000" />
       <workItem from="1612231852068" duration="11136000" />
-      <workItem from="1615699680327" duration="352000" />
+      <workItem from="1615699680327" duration="516000" />
+      <workItem from="1615700367043" duration="197000" />
+      <workItem from="1615716967248" duration="5628000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>
