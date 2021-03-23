@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="2020.10.13">
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/EditDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestCommonSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="2020.10.13" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +240,7 @@
       <workItem from="1615699680327" duration="516000" />
       <workItem from="1615700367043" duration="197000" />
       <workItem from="1615716967248" duration="9670000" />
-      <workItem from="1616292457538" duration="11430000" />
+      <workItem from="1616292457538" duration="12286000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>
