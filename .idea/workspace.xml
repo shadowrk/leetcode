@@ -20,9 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="2020.10.13">
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/LongestPalindromicSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/MinimumInsertionStepsToMakeAStringPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest234/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest234/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weekly/contest234/Problem3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/codinginterviews/RebuildBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/RebuildBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackPushAndPop">
+  <component name="RunManager" selected="Application.Problem1">
     <configuration name="DoublePower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codinginterviews.DoublePower" />
       <module name="leetcode" />
@@ -113,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveNthNodeFromEndOfList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="common.RemoveNthNodeFromEndOfList" />
+    <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weekly.contest234.Problem1" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="common.*" />
+          <option name="PATTERN" value="weekly.contest234.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,26 +154,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.StackPushAndPop" />
         <item itemvalue="Application.DoublePower" />
         <item itemvalue="Application.RobotRangeMotion" />
         <item itemvalue="Application.LongestTurbulentSubarray" />
-        <item itemvalue="Application.RemoveNthNodeFromEndOfList" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,8 @@
       <workItem from="1615699680327" duration="516000" />
       <workItem from="1615700367043" duration="197000" />
       <workItem from="1615716967248" duration="9670000" />
-      <workItem from="1616292457538" duration="14487000" />
+      <workItem from="1616292457538" duration="17083000" />
+      <workItem from="1616898085336" duration="5363000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>

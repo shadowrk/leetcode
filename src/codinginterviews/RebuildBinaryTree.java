@@ -1,5 +1,7 @@
 package codinginterviews;
 
+import tree.TreeNode;
+
 import java.util.Arrays;
 
 public class RebuildBinaryTree {
