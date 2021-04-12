@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da437e79-ad9c-4774-9783-dab33e43a060" name="Default Changelist" comment="2020.10.13">
-      <change afterPath="$PROJECT_DIR$/src/weekly/contest234/Problem1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekly/contest234/Problem2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/weekly/contest234/Problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dynamicprogramming/SuperEggDrop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codinginterviews/RebuildBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/codinginterviews/RebuildBinaryTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,26 +85,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem1">
+  <component name="RunManager" selected="Application.SuperEggDrop">
     <configuration name="DoublePower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="codinginterviews.DoublePower" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="codinginterviews.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestTurbulentSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.LongestTurbulentSubarray" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,6 +138,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SuperEggDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.SuperEggDrop" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -167,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SuperEggDrop" />
         <item itemvalue="Application.Problem1" />
         <item itemvalue="Application.StackPushAndPop" />
         <item itemvalue="Application.DoublePower" />
         <item itemvalue="Application.RobotRangeMotion" />
-        <item itemvalue="Application.LongestTurbulentSubarray" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +242,9 @@
       <workItem from="1615700367043" duration="197000" />
       <workItem from="1615716967248" duration="9670000" />
       <workItem from="1616292457538" duration="17083000" />
-      <workItem from="1616898085336" duration="5363000" />
+      <workItem from="1616898085336" duration="5406000" />
+      <workItem from="1617019657844" duration="3260000" />
+      <workItem from="1618222883999" duration="1885000" />
     </task>
     <task id="LOCAL-00001" summary="完成98、103、104、105、107">
       <created>1583483365387</created>
